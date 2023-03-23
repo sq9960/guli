@@ -1,0 +1,404 @@
+2023-03-11 11:25:45,936 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 11:25:45,938 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 11:25:49,257 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 11:25:49,257 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.137.1:8120_true,
+
+2023-03-11 11:32:20,081 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 11:32:20,084 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 11:32:20,087 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 11:32:20,087 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.137.1:8120_true,
+
+2023-03-11 11:33:39,460 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 11:33:39,462 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 11:33:39,463 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 11:33:39,463 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.137.1:8120_true,
+
+2023-03-11 11:37:29,499 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 11:37:29,499 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 
+
+2023-03-11 11:37:39,709 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 11:37:39,710 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.137.1:8120_true,
+
+2023-03-11 11:43:10,694 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 11:43:10,694 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 11:43:17,627 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 11:43:17,627 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 
+
+2023-03-11 11:43:22,241 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 11:43:22,241 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 11:43:23,941 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 11:43:23,941 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.137.1:8120_true,
+
+2023-03-11 11:46:07,240 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8121:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 11:46:07,240 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.137.1:8121_true,192.168.137.1:8120_true,
+
+2023-03-11 12:01:10,151 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:01:10,151 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 12:01:17,187 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:01:17,187 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 12:08:34,080 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:08:34,080 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 12:08:34,113 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:08:34,114 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.137.1:8121_true,
+
+2023-03-11 12:08:34,137 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8121:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:08:34,137 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 
+
+2023-03-11 12:08:47,910 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:08:47,910 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 12:08:48,382 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:08:48,382 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.137.1:8120_true,
+
+2023-03-11 12:13:08,650 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:13:08,650 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 12:13:18,464 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:13:18,464 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 12:13:26,666 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:13:26,666 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 12:13:36,104 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:13:36,104 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 12:16:45,384 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:16:45,384 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 12:16:45,410 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:16:45,410 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 
+
+2023-03-11 12:16:55,422 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:16:55,422 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 12:16:58,048 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:16:58,048 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.137.1:8120_true,
+
+2023-03-11 12:17:34,116 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:17:34,116 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 12:17:34,151 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:17:34,151 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 
+
+2023-03-11 12:17:43,047 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:17:43,047 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 12:17:43,518 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:17:43,518 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.137.1:8120_true,
+
+2023-03-11 12:20:39,840 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:20:39,840 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 12:20:39,874 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:20:39,874 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 
+
+2023-03-11 12:20:46,967 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8121:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:20:46,967 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.137.1:8121_true,
+
+2023-03-11 12:20:52,176 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:20:52,176 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 12:20:52,456 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 12:20:52,456 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.137.1:8121_true,192.168.137.1:8120_true,
+
+2023-03-11 13:30:25,553 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 13:30:25,553 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 13:30:25,587 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 13:30:25,587 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.137.1:8121_true,
+
+2023-03-11 13:30:25,613 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8121:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 13:30:25,613 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 
+
+2023-03-11 13:30:33,756 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 13:30:33,756 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 13:30:37,733 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 13:30:37,733 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.137.1:8120_true,
+
+2023-03-11 13:30:39,153 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8121:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 13:30:39,153 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.137.1:8121_true,192.168.137.1:8120_true,
+
+2023-03-11 13:36:25,291 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 13:36:25,291 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 13:36:25,316 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 13:36:25,316 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.137.1:8121_true,
+
+2023-03-11 13:36:25,342 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8121:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 13:36:25,342 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 
+
+2023-03-11 14:12:04,352 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 14:12:04,356 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 14:12:04,358 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 14:12:04,358 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.137.1:8120_true,
+
+2023-03-11 14:18:43,770 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 14:18:43,770 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 14:18:43,798 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 14:18:43,798 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 
+
+2023-03-11 14:18:51,619 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 14:18:51,619 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 14:18:52,075 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 14:18:52,075 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.137.1:8120_true,
+
+2023-03-11 15:04:18,342 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 15:04:18,342 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 
+
+2023-03-11 15:04:20,296 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 15:04:20,296 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 15:04:32,905 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 15:04:32,905 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 15:09:44,725 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 15:09:44,725 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 15:09:52,752 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 15:09:52,752 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 15:28:40,992 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 15:28:40,992 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 15:32:36,295 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 15:32:36,295 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 15:46:03,089 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 15:46:03,089 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 15:47:11,443 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 15:47:11,443 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 15:57:03,675 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 15:57:03,675 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 16:59:47,415 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 16:59:47,418 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 18:04:33,850 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 18:04:33,851 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 18:04:47,549 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 18:04:47,549 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 18:25:54,204 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 18:25:54,204 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 18:26:05,144 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 18:26:05,144 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 18:27:40,665 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 18:27:40,665 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 18:27:49,566 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 18:27:49,566 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 18:28:12,688 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:8110@DEFAULT@DEFAULT_GROUP@@service-edu, region: unknown, msg: client timeout after 15000, last beat: 1678530474554
+
+2023-03-11 18:28:27,856 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2023-03-11 18:28:27,856 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 18:28:37,170 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 18:28:37,170 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 18:31:57,883 INFO {POS} {IP-DISABLED} valid: 192.168.137.1:8110@DEFAULT@DEFAULT_GROUP@@service-edu, region: unknown, msg: client timeout after 15000, last beat: 1678530702637
+
+2023-03-11 18:32:12,887 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2023-03-11 18:32:12,887 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 18:32:23,636 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 18:32:23,636 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 18:37:34,438 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 18:37:34,438 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 18:38:09,328 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 18:38:09,328 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 18:38:24,795 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 18:38:24,795 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 18:38:32,993 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 18:38:32,993 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 18:47:23,146 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 18:47:23,146 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 18:47:33,635 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 18:47:33,635 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 18:47:38,898 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 18:47:38,899 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 18:48:13,776 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 18:48:13,776 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 18:50:26,101 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 18:50:26,101 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 18:50:36,657 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 18:50:36,657 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 19:00:20,978 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 19:00:20,978 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 19:00:31,867 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 19:00:31,867 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 19:37:55,302 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 19:37:55,302 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 19:38:07,199 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 19:38:07,199 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 19:41:26,714 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 19:41:26,714 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 19:53:36,761 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 19:53:36,763 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 19:54:55,976 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 19:54:55,976 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 19:55:03,425 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 19:55:03,425 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 19:55:49,899 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 19:55:49,899 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 19:55:57,766 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 19:55:57,766 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 19:57:27,197 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 19:57:27,197 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 19:57:40,992 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 19:57:40,992 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 20:01:30,377 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 20:01:30,377 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 20:02:21,986 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 20:02:21,986 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 20:03:36,079 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 20:03:36,079 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2023-03-11 20:03:48,613 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 20:03:48,613 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.137.1:8110_true,
+
+2023-03-11 23:20:19,667 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.137.1:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-03-11 23:20:19,667 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+

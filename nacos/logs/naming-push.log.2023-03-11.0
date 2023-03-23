@@ -1,0 +1,234 @@
+2023-03-11 11:25:46,954 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 11:25:50,264 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 11:32:21,100 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 11:32:21,103 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 11:33:40,463 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 11:33:40,466 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 11:37:30,501 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 11:37:40,711 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 11:43:11,695 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 11:43:18,628 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 11:43:23,242 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 11:43:24,943 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 11:46:08,247 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 11:46:08,247 INFO serviceName: DEFAULT_GROUP@@service-oss changed, schedule push for: 192.168.0.104:57527, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.104,57527,12704957458000
+
+2023-03-11 11:46:08,247 INFO send udp packet: 192.168.0.104,57527,12704957458000
+
+2023-03-11 11:46:08,264 INFO received ack: {"type": "push-ack", "lastRefTime":"12704957458000", "data":""} from: 192.168.0.104:, cost: 57527 ms, unacked: 17, total push: 0
+
+2023-03-11 12:01:11,152 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 12:01:18,200 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 12:08:35,081 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 12:08:35,129 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 12:08:48,918 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 12:08:49,384 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 12:13:09,657 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 12:13:19,471 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 12:13:27,672 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 12:13:37,116 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 12:16:46,396 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 12:16:46,411 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 12:16:46,411 INFO serviceName: DEFAULT_GROUP@@service-oss changed, schedule push for: 192.168.0.104:62279, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.104,62279,14543121749100
+
+2023-03-11 12:16:46,411 INFO send udp packet: 192.168.0.104,62279,14543121749100
+
+2023-03-11 12:16:56,424 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 12:16:56,424 INFO retry to push data, key: 192.168.0.104,62279,14543121749100
+
+2023-03-11 12:16:56,424 INFO send udp packet: 192.168.0.104,62279,14543121749100
+
+2023-03-11 12:16:59,061 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 12:17:06,438 INFO retry to push data, key: 192.168.0.104,62279,14543121749100
+
+2023-03-11 12:17:06,438 WARN max re-push times reached, retry times 2, key: 192.168.0.104,62279,14543121749100
+
+2023-03-11 12:17:35,121 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 12:17:35,152 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 12:17:44,058 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 12:17:44,531 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 12:20:40,841 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 12:20:40,888 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 12:20:47,981 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 12:20:53,178 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 12:20:53,463 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 13:30:26,558 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 13:30:26,590 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 13:30:26,590 INFO serviceName: DEFAULT_GROUP@@service-oss changed, schedule push for: 192.168.0.104:63495, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.104,63495,18963299995100
+
+2023-03-11 13:30:26,590 INFO send udp packet: 192.168.0.104,63495,18963299995100
+
+2023-03-11 13:30:34,767 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 13:30:36,600 INFO retry to push data, key: 192.168.0.104,63495,18963299995100
+
+2023-03-11 13:30:36,600 INFO send udp packet: 192.168.0.104,63495,18963299995100
+
+2023-03-11 13:30:38,738 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 13:30:40,154 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 13:30:46,603 INFO retry to push data, key: 192.168.0.104,63495,18963299995100
+
+2023-03-11 13:30:46,603 WARN max re-push times reached, retry times 2, key: 192.168.0.104,63495,18963299995100
+
+2023-03-11 13:36:26,294 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 13:36:26,325 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 14:12:05,368 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 14:12:05,383 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 14:18:44,780 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 14:18:44,811 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 14:18:52,629 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 14:18:53,090 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 15:04:19,351 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-11 15:04:19,352 INFO serviceName: DEFAULT_GROUP@@service-oss changed, schedule push for: 192.168.0.104:64587, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.104,64587,24596061962700
+
+2023-03-11 15:04:19,352 INFO send udp packet: 192.168.0.104,64587,24596061962700
+
+2023-03-11 15:04:19,362 INFO received ack: {"type": "push-ack", "lastRefTime":"24596061962700", "data":""} from: 192.168.0.104:, cost: 64587 ms, unacked: 10, total push: 0
+
+2023-03-11 15:04:21,304 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 15:04:33,918 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 15:09:45,729 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 15:09:53,762 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 15:28:41,993 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 15:32:37,302 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 15:46:04,090 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 15:47:12,445 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 15:57:04,680 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 16:59:48,432 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 18:04:34,852 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 18:04:48,557 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 18:25:55,206 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 18:26:06,145 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 18:27:41,667 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 18:27:50,568 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 18:28:13,690 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 18:28:28,857 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 18:28:38,172 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 18:31:58,883 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 18:32:13,889 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 18:32:24,638 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 18:37:35,440 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 18:38:10,330 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 18:38:25,797 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 18:38:33,995 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 18:47:24,153 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 18:47:34,649 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 18:47:39,910 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 18:48:14,784 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 18:50:27,115 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 18:50:37,669 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 19:00:21,983 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 19:00:32,874 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 19:37:56,311 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 19:38:08,209 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 19:41:27,724 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 19:53:37,766 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 19:54:56,980 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 19:55:04,429 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 19:55:50,905 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 19:55:58,781 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 19:57:28,208 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 19:57:42,004 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 20:01:31,391 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 20:02:22,990 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 20:03:37,081 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 20:03:49,613 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-11 23:20:20,677 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+

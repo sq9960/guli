@@ -1,0 +1,558 @@
+2023-03-14 00:00:10,012 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-14 00:00:10,028 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2023-03-14 00:00:10,043 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 00:00:10,073 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:00:29,534 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-14 00:00:31,750 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2023-03-14 00:00:38,032 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:00:42,639 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 00:04:44,550 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:05:02,092 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:06:22,468 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:06:38,155 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:07:03,846 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:07:19,120 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:07:36,656 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:07:55,197 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:12:09,540 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:12:26,838 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:12:31,816 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:12:50,435 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:16:13,549 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:16:32,635 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:34:15,803 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:34:39,775 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:40:18,022 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:40:34,706 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:43:35,356 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:43:52,815 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:43:58,665 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:44:29,819 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 00:47:31,127 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-14 00:47:55,236 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-14 00:52:54,302 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-14 00:52:54,334 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 00:52:54,382 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2023-03-14 00:52:54,382 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 01:06:04,694 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-14 01:06:12,264 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 01:06:12,849 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2023-03-14 01:06:17,812 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 01:18:24,907 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-14 01:18:24,938 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 01:18:24,968 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2023-03-14 01:18:24,983 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 08:30:52,064 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 08:55:44,946 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 08:55:57,587 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 09:04:53,404 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 09:05:03,505 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 09:52:37,259 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 09:55:09,635 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 09:55:14,760 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 09:59:53,490 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 09:59:56,411 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 09:59:57,477 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 10:00:55,870 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 10:01:04,338 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 10:02:26,426 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 10:02:34,963 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 10:08:03,719 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 10:08:09,972 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 10:08:41,959 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 10:08:48,100 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 10:09:26,824 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 10:09:35,958 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 10:22:10,661 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 10:23:30,875 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 10:23:40,046 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 10:39:48,243 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 10:39:57,063 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 10:40:40,951 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 10:40:40,967 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 10:40:40,967 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 10:40:40,999 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 10:40:51,236 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 10:40:53,847 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 10:40:54,762 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 10:40:55,343 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 10:46:03,768 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 10:46:15,842 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 10:48:53,401 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 10:48:58,686 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 10:49:02,786 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 10:49:09,774 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 10:50:19,925 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 10:50:29,311 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 11:41:09,928 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 11:41:09,944 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 11:41:09,960 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 11:41:09,975 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 12:29:53,460 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 12:30:42,156 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 12:35:41,208 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 12:35:42,023 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 13:28:02,351 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 13:37:52,184 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 13:39:27,511 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 13:41:36,625 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 13:49:02,244 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-14 13:49:09,302 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 13:49:13,166 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2023-03-14 13:49:19,212 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 13:49:19,812 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 13:49:22,017 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 13:54:43,314 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2023-03-14 13:54:58,698 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-14 13:55:02,852 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 13:55:13,629 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 14:15:20,621 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-14 14:16:18,464 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2023-03-14 14:57:32,251 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 14:57:42,384 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 14:59:03,807 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 14:59:10,211 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 16:23:59,941 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 16:24:12,513 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 16:32:43,886 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 16:32:51,551 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 16:49:01,478 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 16:49:14,855 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-14 16:49:16,056 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2023-03-14 16:49:30,119 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-14 16:49:31,107 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2023-03-14 18:11:38,452 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 18:11:38,453 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 18:11:52,487 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 18:11:59,455 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 18:12:04,154 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 18:12:07,540 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 18:12:09,467 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 18:15:09,480 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 18:15:09,511 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 18:15:09,543 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 18:16:27,806 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-14 18:16:34,993 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 18:16:38,761 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2023-03-14 18:16:44,555 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 18:16:48,358 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 18:16:54,702 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 18:39:18,374 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 18:41:08,520 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 18:41:20,179 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 18:44:03,793 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 18:44:16,519 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 18:45:17,837 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 18:45:29,730 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 18:56:45,033 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 18:56:56,140 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:11:06,905 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:11:06,920 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 19:11:06,928 INFO serviceName: DEFAULT_GROUP@@service-ucenter changed, schedule push for: 192.168.0.104:58501, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.104,58501,42277633638700
+
+2023-03-14 19:11:06,928 INFO send udp packet: 192.168.0.104,58501,42277633638700
+
+2023-03-14 19:11:16,953 INFO retry to push data, key: 192.168.0.104,58501,42277633638700
+
+2023-03-14 19:11:16,953 INFO send udp packet: 192.168.0.104,58501,42277633638700
+
+2023-03-14 19:11:20,443 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:11:23,061 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 19:11:26,954 INFO retry to push data, key: 192.168.0.104,58501,42277633638700
+
+2023-03-14 19:11:26,954 WARN max re-push times reached, retry times 2, key: 192.168.0.104,58501,42277633638700
+
+2023-03-14 19:16:37,567 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:16:47,888 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:20:42,315 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:20:57,364 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:21:13,205 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:21:52,976 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:22:03,446 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:23:01,051 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:23:10,095 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:23:42,653 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:23:55,840 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:24:12,722 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:24:27,763 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:24:46,567 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:26:17,924 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:26:24,419 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:36:19,552 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 19:36:19,664 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:36:19,902 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 19:36:19,918 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-14 19:36:20,026 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2023-03-14 19:36:20,042 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 19:36:20,104 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 19:36:32,216 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:36:35,125 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 19:36:35,423 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-14 19:36:38,814 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2023-03-14 19:36:41,395 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 19:36:42,119 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 19:36:46,102 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 19:37:47,851 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:37:56,995 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:38:39,266 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:38:54,292 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:40:00,122 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:42:24,350 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:42:33,622 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:43:31,783 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 19:43:31,829 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2023-03-14 19:43:31,876 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 19:43:31,876 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-14 19:43:31,908 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 19:43:31,940 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:43:31,956 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 19:43:43,111 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2023-03-14 19:43:48,215 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 19:43:48,855 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 19:43:52,088 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 19:43:52,368 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-14 19:43:55,291 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 19:43:55,725 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 21:01:58,025 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 21:02:07,691 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 21:04:08,534 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 21:04:21,556 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 21:05:06,666 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 21:05:44,284 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 21:05:54,752 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 21:06:41,779 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 21:06:44,966 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 21:07:06,807 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 21:07:08,156 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 21:09:35,056 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 21:09:44,488 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 21:10:00,109 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 21:10:06,927 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 21:20:49,667 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 21:20:49,668 INFO serviceName: DEFAULT_GROUP@@service-ucenter changed, schedule push for: 192.168.0.104:58211, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.104,58211,50060381000000
+
+2023-03-14 21:20:49,668 INFO send udp packet: 192.168.0.104,58211,50060381000000
+
+2023-03-14 21:20:49,669 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 21:20:59,678 INFO retry to push data, key: 192.168.0.104,58211,50060381000000
+
+2023-03-14 21:20:59,678 INFO send udp packet: 192.168.0.104,58211,50060381000000
+
+2023-03-14 21:21:02,989 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 21:21:05,632 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 21:21:09,692 INFO retry to push data, key: 192.168.0.104,58211,50060381000000
+
+2023-03-14 21:21:09,693 WARN max re-push times reached, retry times 2, key: 192.168.0.104,58211,50060381000000
+
+2023-03-14 21:24:58,084 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 21:24:58,084 INFO serviceName: DEFAULT_GROUP@@service-edu changed, schedule push for: 192.168.0.104:63080, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.104,63080,50308797805100
+
+2023-03-14 21:24:58,084 INFO send udp packet: 192.168.0.104,63080,50308797805100
+
+2023-03-14 21:24:58,179 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 21:24:58,179 INFO serviceName: DEFAULT_GROUP@@service-ucenter changed, schedule push for: 192.168.0.104:63080, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.104,63080,50308892836100
+
+2023-03-14 21:24:58,179 INFO send udp packet: 192.168.0.104,63080,50308892836100
+
+2023-03-14 21:24:58,195 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 21:24:58,195 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 21:24:58,195 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-14 21:24:58,241 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2023-03-14 21:24:58,367 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 21:25:08,089 INFO retry to push data, key: 192.168.0.104,63080,50308797805100
+
+2023-03-14 21:25:08,090 INFO send udp packet: 192.168.0.104,63080,50308797805100
+
+2023-03-14 21:25:08,183 INFO retry to push data, key: 192.168.0.104,63080,50308892836100
+
+2023-03-14 21:25:08,183 INFO send udp packet: 192.168.0.104,63080,50308892836100
+
+2023-03-14 21:25:10,828 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 21:25:14,096 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 21:25:14,459 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-14 21:25:16,965 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2023-03-14 21:25:18,096 INFO retry to push data, key: 192.168.0.104,63080,50308797805100
+
+2023-03-14 21:25:18,096 WARN max re-push times reached, retry times 2, key: 192.168.0.104,63080,50308797805100
+
+2023-03-14 21:25:18,192 INFO retry to push data, key: 192.168.0.104,63080,50308892836100
+
+2023-03-14 21:25:18,192 WARN max re-push times reached, retry times 2, key: 192.168.0.104,63080,50308892836100
+
+2023-03-14 21:25:19,644 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 21:25:20,626 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 21:25:24,497 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 22:53:25,154 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 22:53:30,713 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 23:07:02,579 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-14 23:07:03,788 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 23:07:05,008 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2023-03-14 23:07:06,045 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 23:07:07,231 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
+2023-03-14 23:07:08,262 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 23:07:09,283 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 23:19:01,185 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-14 23:19:01,232 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2023-03-14 23:19:04,842 INFO DEFAULT_GROUP@@service-cms is changed, add it to push queue.
+
+2023-03-14 23:19:08,486 INFO DEFAULT_GROUP@@service-ucenter is changed, add it to push queue.
+
+2023-03-14 23:19:11,461 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 23:23:27,651 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 23:23:39,513 INFO DEFAULT_GROUP@@service-trade is changed, add it to push queue.
+
+2023-03-14 23:48:47,633 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2023-03-14 23:48:49,106 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2023-03-14 23:48:50,470 INFO DEFAULT_GROUP@@service-sms is changed, add it to push queue.
+
